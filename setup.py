@@ -28,10 +28,10 @@ if __name__ == '__main__':
         keywords = ['yaml', 'HTML', 'converter', 'json', 'csv', 'Table', 'xml'],
         author='Alfred TCHONDJO',
         author_email='atchondjo@gmail.com',
-        url='https://github.com/iriven/iDataProcessor',
-        download_url = 'https://github.com/iriven/iDataProcessor/archive/refs/heads/main.zip',
+        url='https://github.com/iriven/PyData2Html',
+        download_url = 'https://github.com/iriven/PyData2Html/archive/refs/heads/main.zip',
         project_urls={
-            'Bug Tracker': 'https://github.com/iriven/iDataProcessor/issues',
+            'Bug Tracker': 'https://github.com/iriven/PyData2Html/issues',
         },
         classifiers=[
                 # this library supports the following Python versions.
